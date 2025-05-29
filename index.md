@@ -1,48 +1,31 @@
----
-title: Ramy Korkis | Autonomous Systems Architect
----
-
-Ramy Korkis  
-**Autonomous Systems Architect | UAV Expert | Military Veteran**  
-Linz, Austria | Middle East (Lebanon)  
+<link rel="stylesheet" href="style.css">
 
 ---
+title: Ramy Korkis | UAV Systems & Services
+---
 
-🚀 About Me
+# Ramy Korkis  
+**Autonomous Systems Architect | UAV Consultant | Military Veteran**  
 
-I'm an autonomous systems architect with over 10 years of experience in military and commercial UAV development. I’ve led high-impact drone programs from design to flight testing—specializing in avionics, integration, and technical leadership across Europe and the Middle East.
+Welcome to my official website. I specialize in UAV systems development and offer expert services across Europe and the Middle East.
 
 ---
 
-🛩️ Selected Projects
+## 🚀 Services I Offer
 
- 350 kg UAV Development – CycloTech GmbH
-- Led avionics team, built custom flight termination systems (FTS)
-- Integrated CAN/RS-422/RS-485-based telemetry and HMI tools
-- Flight test instrumentation and FCS validation
-
- Lebanese Armed Forces UAV Program
-- Designed and built the first operational UAV for the Lebanese Air Force
-- Developed and flight-tested 3 UAV prototypes under budget constraints
-- Served as trainer, ISR operator, and C-UAS advisor
-
- Freelance UAV Solutions
-- Delivered custom drone prototypes and feasibility studies
-- Used 3D design + simulation to optimize flight performance
-- Built BOMs and ran field testing for various use cases
-
----
- 🛠️ Skills & Tools
-MATLAB, Simulink, Python, Flight Test Instrumentation, UAV Integration, EWIS, FTS, CAN Bus, ARP4754, SC-VTOL, EASA Drone Piloting
+- **UAV Systems Architecture & Avionics Integration**
+- **Flight Test Campaigns**: Planning, execution & data analysis
+- **Custom Drone Prototyping**: From CAD to flight testing
+- **EASA Drone Certification Guidance** (SORA, STS01)
+- **Defense & Aerospace Consulting** for startups and institutions
+- **Embedded Systems Development** with COTS integration
 
 ---
 
-🌐 Contact
+## 🌍 Why Work With Me?
 
-📧 [rkorkiskanaan@gmail.com](mailto:rkorkiskanaan@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/rkkorkis)  
-📄 [Download My Resume (optional)](resume.pdf)
+Over a decade of hands-on experience in autonomous systems across military and commercial environments. Based in Austria, with deep roots in the MENA region.
 
 ---
 
-*This site is under development. Stay tuned!*
+[Home](/) | [Projects](/projects) | [About](/about)
