@@ -3,32 +3,46 @@ body {
   max-width: 800px;
   margin: auto;
   padding: 20px;
-  line-height: 1.6;
-  background-color: #80cfe2;
+  background-color: #f4f7fa;
   color: #333;
 }
-
-h1, h2, h3 {
-  color: #004080;
-}
-
-a {
-  color: #007acc;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-nav {
-  margin-top: 20px;
-  padding-top: 10px;
-  border-top: 1px solid #ddd;
+header {
   text-align: center;
+  padding-bottom: 20px;
 }
-
 nav a {
   margin: 0 10px;
-  font-weight: bold;
+  text-decoration: none;
+  color: #007acc;
+}
+h1, h2 {
+  color: #003366;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+input, textarea {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+button {
+  padding: 10px;
+  background-color: #007acc;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #005c99;
+}
+img {
+  width: 100%;
+  max-width: 700px;
+  border-radius: 8px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
