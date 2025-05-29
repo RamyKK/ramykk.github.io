@@ -1,35 +1,20 @@
-<link rel="stylesheet" href="style.css">
-
 ---
-title: About Ramy
----
-
-# About Me
-
-I'm an Autonomous Systems Architect with a background in both military and commercial drone sectors. I blend engineering precision with operational insight to deliver next-generation UAV solutions.
-
+layout: default
+title: About Me
+permalink: /about/
 ---
 
-## 👨‍✈️ My Journey
+# About Ramy
 
-- **Military Veteran** – Lebanese Air Force (UAV lead, ISR operator, budget manager)
-- **Startup Specialist** – UAV integration and avionics at CycloTech GmbH
-- **MENA & EU Dual Exposure** – Strong presence and understanding of both regions
+Autonomous Systems Architect with 10+ years of experience in military and commercial UAV development. Based in Austria with roots in the Middle East.
 
-## 🌐 Languages
+## Background
+- Lebanese Air Force UAV lead
+- CycloTech GmbH avionics leader
+- Speaker and tech ambassador
 
-Arabic (Native), English (Full Professional), French (Professional), German (Elementary), Romanian (Basic)
+## Contact
+- Email: rkorkiskanaan@gmail.com
+- LinkedIn: [rkkorkis](https://www.linkedin.com/in/rkkorkis)
 
-## 🎤 Events & Visibility
-
-- Speaker at international drone exhibitions
-- Represented companies in English & Arabic technical interviews
-
-## 🤝 Let’s Connect
-
-📧 Email: rkorkiskanaan@gmail.com  
-🔗 LinkedIn: [rkkorkis](https://www.linkedin.com/in/rkkorkis)
-
----
-
-[Home](/) | [Projects](/projects) | [About](/about)
+[Home](/) | [Projects](/projects/)
